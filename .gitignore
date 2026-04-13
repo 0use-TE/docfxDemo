@@ -1,1 +1,58 @@
-/_site
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# DocFX output
+_site/
+api/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+[nN]u[Mm][Pp]ackages/
+[Nn]u[Gg]et[Ff]eed/
+.projections/
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish
+[Pp]ublish/
+
+# MSTest test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# .NET Core + VS Code
+*.userprefs
